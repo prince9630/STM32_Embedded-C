@@ -1,6 +1,6 @@
 /* USER CODE BEGIN Header */
 /*******************************************************************************
-  * File Name          : main.c
+  * File Name          : passcode.c
   * Description        : compare a passcode and illuminate the green led if access granted or red led if access denied
   *
   * Author             :Prince Patel
