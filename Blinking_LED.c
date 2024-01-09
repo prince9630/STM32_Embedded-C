@@ -1,3 +1,12 @@
+/* USER CODE BEGIN Header */
+/*******************************************************************************
+  * File Name          : Blinking_LED.c
+  * Description        : blinking the onboard led of STM32.
+  *
+  * Author:              Prince Patel
+  * Date:                11/16/2022
+  ******************************************************************************
+  */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
